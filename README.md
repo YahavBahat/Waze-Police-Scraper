@@ -8,6 +8,7 @@ More in [Features](#features)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Features](#features)
+  * [License](#licnese)
 
 ## Installation:
 
@@ -74,3 +75,12 @@ In the map, by clicking on the pins you'll be able to see more information on th
 type of police (vehicle or trap), speed, number of up votes by Waze's users, and confidence and reliability estimated by Waze.
 
 Also, you can download the scraped data as JSON, XLS (Excel), and CSV by clicking on the buttons.
+
+## License:
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
