@@ -17,7 +17,7 @@ For it to work, we need to use browser-mob-proxy, so:
 
 and install browser-mob-proxy by going to [here](https://bmp.lightbody.net), and click download as zip.
 
-Extract the archive and in `Waze_Police_Scraper.py`, in line 61, replace `...` with the path of the executable
+Extract the archive and in `Waze_Police_Scraper.py`, in line 65, replace `...` with the path of the executable
 
 **Do not forget to replace every backslash \ with double-backslash \\.**
 
