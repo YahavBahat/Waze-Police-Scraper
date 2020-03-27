@@ -78,8 +78,6 @@ Also, you can download the scraped data as JSON, XLS (Excel), and CSV by clickin
 
 ## License:
 
-## License
-
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
