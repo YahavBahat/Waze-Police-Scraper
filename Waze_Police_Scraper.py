@@ -62,7 +62,7 @@ def personalised_info():
 def start_server():
     global server, proxy, driver
     dict = {'port': 8080}
-    server = Server("C:\\Users\\Yahav Bahat\\Downloads\\browsermob-proxy-2.1.4-bin\\browsermob-proxy-2.1.4\\bin\\browsermob-proxy")
+    server = Server("...")
 
     server.start()
     proxy = server.create_proxy()
@@ -71,7 +71,7 @@ def start_server():
 
     profile = webdriver.FirefoxProfile()
     profile.set_proxy(proxy.selenium_proxy())
-    driver = webdriver.Firefox(executable_path="C:\\Users\\Yahav Bahat\\Downloads\\geckodriver-v0.26.0-win64\\geckodriver.exe",
+    driver = webdriver.Firefox(executable_path="...",
         firefox_profile=profile)
     # Navigate to the application home page
     driver.get("https://www.waze.com/livemap?utm_source=waze_website&utm_campaign=waze_website")
