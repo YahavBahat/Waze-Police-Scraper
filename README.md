@@ -1,20 +1,20 @@
 # Waze-Police-Scraper
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[(http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 Waze Police Scraper will scrape the police locations and display them in map as pins.
 You'll be able to see more information about every cop vehicle/trap and also download the scraped data.
 
 More in [Features](#features)
 
-## Table of contents
+## Table of Contents
 
 - [Waze-Police-Scraper](#waze-police-scraper)
-  * [Table of contents](#table-of-contents)
-  * [Installation:](#installation-)
-  * [Usage:](#usage-)
-  * [Features:](#features-)
-  * [License:](#license-)
+  * [Table Of Contents](#table-of-contents)
+  * [Installation](#installation-)
+  * [Usage](#usage-)
+  * [Features](#features-)
+  * [License](#license-)
 
 ## Installation:
 
