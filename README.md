@@ -11,6 +11,7 @@ More in [Features](#features)
 
 - [Waze-Police-Scraper](#waze-police-scraper)
   * [Table Of Contents](#table-of-contents)
+  * [Requirements](#requirements)
   * [Installation](#installation-)
   * [Usage](#usage-)
   * [Features](#features-)
