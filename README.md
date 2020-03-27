@@ -57,14 +57,16 @@ If you press Enter, without entering any number, the number will be the default,
 
 After the Firebox browser launched and you're done scraping, just close the browser, and wait 5 seconds.
 
-After that, go to localhost:5000 or 127.0.0.1:5000.
+After that, go to `localhost:5000` or `127.0.0.1:5000`.
 
 [Features](#features)
 
 ## Features:
 
+If you go to `localhost:5000`,
+
 In the map, by clicking on the pins you'll be able to see more information on them like coordinates,
 
 type of police (vehicle or trap), speed, number of up votes by Waze's users, and confidence and reliability estimated by Waze.
 
-Also, you can download the scraped data as JSON, XLS (Excel), and CSV.
+Also, you can download the scraped data as JSON, XLS (Excel), and CSV by clicking on the buttons.
