@@ -4,6 +4,7 @@ import json
 import xlwt
 import ast
 import pandas as pd
+import Waze_Police_Scraper
 
 app = Flask(__name__, static_folder='\\templates\\static')
 
