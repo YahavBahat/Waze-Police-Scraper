@@ -16,6 +16,13 @@ More in [Features](#features)
   * [Features](#features-)
   * [License](#license-)
 
+## Requirements:
+
+Prefferably not bad connection to avoid timeout.
+
+Firefox browser installed.
+
+
 ## Installation:
 
 For it to work, we need to use browser-mob-proxy, so:
