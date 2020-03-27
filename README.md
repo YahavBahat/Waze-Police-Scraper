@@ -31,7 +31,7 @@ If you downloded and extracted the folder in the downloads folder and you're on 
 
 Download geckodriver for Selenium by going here [here](https://github.com/mozilla/geckodriver/releases)
 
-and and in `Waze_Police_Scraper.py`, in line 70, replace `...` with the path to the exe geckodriver file
+and and in `Waze_Police_Scraper.py`, in line 74, replace `...` with the path to the exe geckodriver file
 
 **Again, do not forget to replace every backslash \ with double-backslash \\.**
 
