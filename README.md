@@ -7,12 +7,12 @@ More in [Features](#features)
 ## Table of contents
 
 - [Waze-Police-Scraper](#waze-police-scraper)
-  * [Table of contents](#table of contents)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Features](#features)
-  * [License](#license)
-  
+  * [Table of contents](#table-of-contents)
+  * [Installation:](#installation-)
+  * [Usage:](#usage-)
+  * [Features:](#features-)
+  * [License:](#license-)
+
 ## Installation:
 
 For it to work, we need to use browser-mob-proxy, so:
@@ -78,6 +78,8 @@ In the map, by clicking on the pins you'll be able to see more information on th
 type of police (vehicle or trap), speed, number of up votes by Waze's users, and confidence and reliability estimated by Waze.
 
 Also, you can download the scraped data as JSON, XLS (Excel), and CSV by clicking on the buttons.
+
+---
 
 ## License:
 
