@@ -1,5 +1,7 @@
 # Waze-Police-Scraper
 
+### Will fix error tomorrow 28.3.2020
+
 [![License_top](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 Waze Police Scraper will scrape the police locations and display them in map as pins.
