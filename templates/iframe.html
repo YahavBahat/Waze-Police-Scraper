@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html> 
+  <head> 
+  </head>
+  <body>
+	 <div id="github-image-container"><a href="https://github.com/YahavBahat/Waze-Police-Scraper" target="_blank"><img src='GitHub-Mark-120px-plus.png' width="120" height="120"></a></div>
+	 <div align="center"><iframe src="map.html", allowfullscreen=false, height=1200, width=2200, id="iframe"></iframe></div>
+	 <div class="container_first"><a href="download/json" target="_self"><button class='buttons' id = 'first'>Download data as JSON!</button></a></div>
+	 <div class="container_first"><a href="download/xls" target="_self"><button class='buttons' id = 'second'>Download data as XLS (EXCEL)!</button></a></div>
+	 <div class="container_third"><a href="download/csv" target="_self"><button class='buttons' id = 'third'>Download data as CSV!</button></a></div>
+  <style>
+	body {
+	background-image: url("https://i.ibb.co/6BKdvF0/Blur-2.png"); 
+	background-size: cover;
+	}
+	#iframe {
+	position:absolute;
+	top: 80px;
+	right:180px;
+	}
+	.buttons {
+		color: #0099CC;
+		background: transparent;
+		border: 2px solid #0099CC;
+		border-radius: 6px;
+		padding: 16px 32px;
+		text-align: center;
+		font-size: 16px;
+		margin: 4px 2px;
+		transition-duration: 0.4s;
+		cursor: pointer;
+		text-decoration: none;
+		-webkit-transition-duration: 0.4s;
+	}
+	.buttons:hover {
+		background-color: #008CBA;
+		color: white;
+	}
+	#first {
+	position:absolute;
+	top: 10px;
+	right:200px;
+	}
+	#second {
+	position:absolute;
+	top: 10px;
+	right:500px;
+	}
+	#third {
+	position:absolute;
+	top: 10px;
+	right:860px;
+	}
+	#github-image-container {
+	position:absolute;
+	top:10px;
+	left:30px;
+	}
+  </style>
+  </body> 
+</html>
