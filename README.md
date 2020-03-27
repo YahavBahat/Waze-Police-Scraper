@@ -8,7 +8,7 @@ More in [Features](#features)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Features](#features)
-  * [License](#licnese)
+  * [License](#License)
 
 ## Installation:
 
