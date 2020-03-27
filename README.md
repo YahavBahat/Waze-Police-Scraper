@@ -1,7 +1,9 @@
 # Waze-Police-Scraper
 Waze Police Scraper will scrape the police locations and display them in map as pins.
 You'll be able to see more information about every cop vehicle/trap and also download the scraped data.
+
 More in [Features](#features-)
+
 - [Waze-Police-Scraper](#waze-police-scraper)
   * [Installation](#installation-)
   * [Usage](#usage-)
@@ -35,6 +37,8 @@ Now run `Waze_Police_Scraper.py`:
 
 `python3 App.py`
 
+[Usage](#Usage-)
+
 ## Usage:
 
 In the first input type 'a' or 'A' for Automatic scraping.
@@ -54,6 +58,8 @@ If you press Enter, without entering any number, the number will be the default,
 After the Firebox browser launched and you're done scraping, just close the browser, and wait 5 seconds.
 
 After that, go to localhost:5000 or 127.0.0.1:5000.
+
+[Features](#features-)
 
 ## Features:
 
