@@ -4,12 +4,15 @@ You'll be able to see more information about every cop vehicle/trap and also dow
 
 More in [Features](#features)
 
+## Table of contents
+
 - [Waze-Police-Scraper](#waze-police-scraper)
+  * [Table of contents](#table of contents)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Features](#features)
   * [License](#license)
-
+  
 ## Installation:
 
 For it to work, we need to use browser-mob-proxy, so:
