@@ -37,7 +37,7 @@ Now run `Waze_Police_Scraper.py`:
 
 `python3 App.py`
 
-[Usage](#Usage-)
+[Usage](#usage-)
 
 ## Usage:
 
