@@ -19,6 +19,8 @@ and install browser-mob-proxy by going to [here](https://bmp.lightbody.net), and
 
 Extract the archive and in `Waze_Police_Scraper.py`, in line 61, replace `...` with the path of the executable
 
+**Do not forget to replace every backslash \ with double-backslash \\.**
+
 in the newly extracted folder, for example the path will be:
 
 `path_to_folder\\browsermob-proxy-2.1.4-bin\\browsermob-proxy-2.1.4\\bin\\browsermob-proxy`
@@ -30,6 +32,8 @@ If you downloded and extracted the folder in the downloads folder and you're on 
 Download geckodriver for Selenium by going here [here](https://github.com/mozilla/geckodriver/releases)
 
 and and in `Waze_Police_Scraper.py`, in line 70, replace `...` with the path to the exe geckodriver file
+
+**Again, do not forget to replace every backslash \ with double-backslash \\.**
 
 **That's it!**
 
