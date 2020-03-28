@@ -33,13 +33,13 @@ For it to work, we need to use browser-mob-proxy, so:
 
 and install browser-mob-proxy by going to [here](https://bmp.lightbody.net), and click download as zip.
 
-Extract the archive and in `Waze_Police_Scraper.py`, in line 65, replace `...` with the path of the executable
-
-**Do not forget to replace every backslash `\` with double-backslash `\\`.**
+Extract the archive and in `Waze_Police_Scraper.py`, in line 65, replace `...` with the path of the executable `browsermob-proxy` in the folder `bin`
 
 in the newly extracted folder, for example the path will be:
 
-`path_to_folder\\browsermob-proxy-2.1.4-bin\\browsermob-proxy-2.1.4\\bin\\browsermob-proxy`
+`path_to_folder\\browsermob-proxy-2.1.4-bin\\browsermob-proxy-2.1.4\\`**bin\\browsermob-proxy**
+
+**Do not forget to replace every backslash `\` with double-backslash `\\`.**
 
 If you downloded and extracted the folder in the downloads folder and you're on drive C:
 
