@@ -1,7 +1,5 @@
 # Waze-Police-Scraper
 
-### Will fix error tomorrow 28.3.2020
-
 [![License_top](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 Waze Police Scraper will scrape the police locations and display them in map as pins.
@@ -25,6 +23,7 @@ Prefferably not bad connection to avoid timeout.
 
 Firefox browser installed.
 
+Tested in Windows 10, Python 3.7.4 if you have any problems or notice any unwanted and bad behavior, please open an issue.
 
 ## Installation:
 
