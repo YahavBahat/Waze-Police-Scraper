@@ -25,12 +25,12 @@ You can view all that in the map that will be generated after the program finish
 Instructions:
 
 Choose how much seconds do you want the program to scrape police. That time is for the user to move to another location,
-to scrape police vehicles / Traps reported by Waze's users.
+to scrape police vehicles / Traps reported by Waze's users.\n
 If you press Enter, without entering any number, the number will be the default, 5 seconds, which is also the recommended value.
 After the Firebox browser launched and you're done scraping, just close the browser, and wait 5 seconds.
 After that, go to localhost:5000 or 127.0.0.1:5000 and you'll be presented with a map showing all the scraped police,
 and by clicking on them you'll be able to see more information on them like coordinates,
-type of police (vehicle or trap), speed, number of up votes by Waze's users, and confidence and reliability estimated by Waze.
+type of police (vehicle or trap), speed, number of up votes by Waze's users, and confidence and reliability estimated by Waze.\n
 Also, you can download the scraped data as JSON, XLS (Excel), and CSV.
 """)
 
